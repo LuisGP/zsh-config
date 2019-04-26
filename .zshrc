@@ -139,3 +139,5 @@ bindkey -v
 #    fi
 #}
 
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
